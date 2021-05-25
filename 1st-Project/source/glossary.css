@@ -1,0 +1,13 @@
+.container.container-glossary h3 {
+  color: #B2B2B2;
+  font-family: "Actor";
+  font-size: 18px;
+  font-weight: lighter;
+  margin-top: 10px;
+  margin-bottom: 24px;
+}
+.container.container-glossary h3 span {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+/*# sourceMappingURL=glossary.css.map */
